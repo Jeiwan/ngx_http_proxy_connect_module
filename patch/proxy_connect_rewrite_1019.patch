@@ -180,7 +180,7 @@ diff --git a/src/http/ngx_http_request.c b/src/http/ngx_http_request.c
 index eb53996..a7a5263 100644
 --- a/src/http/ngx_http_request.c
 +++ b/src/http/ngx_http_request.c
-@@ -1108,6 +1108,53 @@ ngx_http_process_request_line(ngx_event_t *rev)
+@@ -1107,6 +1107,53 @@ ngx_http_process_request_line(ngx_event_t *rev)
                  break;
              }
  
